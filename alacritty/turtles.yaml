@@ -1,0 +1,30 @@
+# Colors (Turtles)
+colors:
+  # Default colors
+  primary:
+    background: '0x191919'
+    foreground: '0xc0c0c0'
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0xc0c0c0'
+    cursor: '0x7482bc'
+  # Normal colors
+  normal:
+    black:   '0x292b2e'
+    red:     '0xdd4641'
+    green:   '0x98d750'
+    yellow:  '0xec9f41'
+    blue:    '0x5e90c7'
+    magenta: '0xb071bf'
+    cyan:    '0x4f99a1'
+    white:   '0x575b61'
+  # Bright colors
+  bright:
+    black:   '0x191919'
+    red:     '0xde4954'
+    green:   '0xd7ffaf'
+    yellow:  '0xe1ad3d'
+    blue:    '0x6e8fd4'
+    magenta: '0xd7d7ff'
+    cyan:    '0x5f5f87'
+    white:   '0xb3b3b3'
